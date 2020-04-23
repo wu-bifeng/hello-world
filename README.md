@@ -1,2 +1,4 @@
 # hello-world
-just a repository
+hi humans
+
+wu-bifeng here ,I like python very much .
